@@ -13,8 +13,6 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/anfederico/Flaskex/master/media/flaskex-demo.png" width="100%"><p>
 
-This is a fork from anfederico/Flaskex(https://github.com/anfederico/Flaskex).
-
 ## Features
 - Encrypted user authorizaton
 - Database initialization
